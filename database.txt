@@ -1,0 +1,2 @@
+ 2 Fried_Rice-Egg 500 0
+ 3 Pasta-Chicken 850 2
