@@ -1,4 +1,4 @@
-## Bun-Talk
+# Bun Talk
 
 ![Image Alt](https://github.com/Thishara-Herath/Bun-Talk/blob/edf0b33c6e1dd10309c8575f1c6af5926e58835c/Read%20me%20img/bun2.png)
 
